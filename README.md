@@ -5,5 +5,5 @@ The `Launcher-Template` is reference from https://gist.github.com/yifanlu/e9965c
 
 ## Usage
 ```
-$ curl https://github.com/TheoKlein/ghidra-mac/install.sh | sh
+$ curl https://raw.githubusercontent.com/TheoKlein/ghidra-mac/master/install.sh | sh
 ```
