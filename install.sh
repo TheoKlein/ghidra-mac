@@ -1,7 +1,7 @@
 #!/bin/sh
 
 LAUNCHER="https://github.com/TheoKlein/ghidra-mac/raw/master/Ghidra-OSX-Launcher-Template.tgz"
-GHIDRA="https://ghidra-sre.org/ghidra_9.0.4_PUBLIC_20190516.zip"
+GHIDRA="https://ghidra-sre.org/ghidra_9.1-BETA_DEV_20190923.zip"
 OPEN_JDK="https://download.java.net/java/GA/jdk12.0.2/e482c34c86bd4bf8b56c0b35558996b9/10/GPL/openjdk-12.0.2_osx-x64_bin.tar.gz"
 
 cd /tmp
